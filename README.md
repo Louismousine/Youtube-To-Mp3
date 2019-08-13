@@ -6,5 +6,5 @@ Youtube-dl must be installed and added to the PATH. To install this resource, us
 Once the pack has been added to the PATH, a computer reboot is necessary to use this program.
 
 # Usage
-Run the program, and, when prompted, enter keywords as you would in the Youtube search bar or enter a video link for it to be directed downloaded.
+Run the program, and, when prompted, enter keywords as you would in the Youtube search bar or enter a video link for it to be directly downloaded. The download can then be found in the root of this project.
 
